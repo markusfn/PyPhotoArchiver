@@ -22,7 +22,6 @@ The workflow is the following
 2. Set the two paramters camera_abrev and iskip to suit your camera
 3. Run the command python PyPhotoArchiver.py
 
-
 ## Example (Pixel 7 files)
 
 After copying my photo files into the folder tmp_photos it looks like
@@ -40,3 +39,5 @@ you should have in directory sorted
 and in directory Pxl7-20240719
 
 ![contents of Pxl7-20240719](pictures/Bild_04.jpg)
+
+Typically, I then copy these day folders into my arcive, i.e. a folder 2024, for this year.
